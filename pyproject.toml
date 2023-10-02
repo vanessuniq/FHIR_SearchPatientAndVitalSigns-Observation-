@@ -17,5 +17,5 @@ python = "^3.8"
 pytz = "^2019.3"
 requests = "^2.22"
 unittest2 = "^1.1"
-yapf = "^0.28.0"
+yapf = "^0.40.0"
 [tool.poetry.dev-dependencies]
