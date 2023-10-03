@@ -10,7 +10,7 @@ name = "runner"
 version = "0.1.0"
 [tool.poetry.dependencies]
 aiohttp = "^3.6"
-fhirpy = "^0.2.1"
+fhirpy = "^1.0.0"
 pytest-asyncio = "^0.10.0"
 pytest-cov = "^2.8"
 python = "^3.8"
